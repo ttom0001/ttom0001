@@ -19,7 +19,7 @@ Hoy armo sistemas completos para negocios de Tierra del Fuego, de la idea a prod
 - 🔐 Estudio la **Tecnicatura en Ciberseguridad** (Teclab).
 - 📊 Hice un año de **Ciencia de Datos e IA** y los cursos de **Programación** y **Analista de Datos** de Digital House.
 - 🤖 Uso **IA generativa** (Claude, ChatGPT) todos los días como herramienta de trabajo: me hace más rápido, pero las decisiones y las pruebas son mías.
-- 🌱 Ahora mismo estoy aprendiendo **Java + Spring Boot** y estándares de salud **HL7 FHIR**.
+- 🌱 Ahora mismo estoy profundizando en **interoperabilidad en salud** (HL7 v2 y FHIR) con Java, Spring Boot, Python y Django, y empezando con **Clarion**.
 
 ## 🚀 Proyectos
 
@@ -32,14 +32,20 @@ Hoy armo sistemas completos para negocios de Tierra del Fuego, de la idea a prod
       <b>📂 Código abierto</b>
     </td>
     <td width="50%" valign="top">
+      <h3>🔄 <a href="https://github.com/ttom0001/hl7-fhir-django">Puente HL7 v2 → FHIR</a></h3>
+      Recibe mensajes HL7 v2 de admisión, responde el ACK y expone los pacientes en <b>FHIR R4</b>. Parser escrito a mano, 13 pruebas y CI.<br><br>
+      <code>Python</code> <code>Django</code> <code>HL7 v2</code> <code>Bash</code><br><br>
+      <b>📂 Código abierto</b>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>🤖 <a href="https://github.com/ttom0001/nexo-vitrina">Nexo</a></h3>
       <a href="https://github.com/ttom0001/nexo-vitrina"><img src="https://github.com/ttom0001/nexo-vitrina/raw/main/img/landing.png"></a><br>
       Asistente de IA que atiende teléfono, chat web y WhatsApp de un comercio y toma pedidos. 80 pruebas automáticas.<br><br>
       <code>TypeScript</code> <code>Python</code> <code>PostgreSQL</code> <code>n8n</code><br><br>
       <a href="https://ttom0001.github.io/nexo-vitrina/"><b>🔗 Landing en vivo</b></a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🏋️ <a href="https://github.com/ttom0001/gymcontrol-vitrina">GymControl</a></h3>
       <a href="https://github.com/ttom0001/gymcontrol-vitrina"><img src="https://github.com/ttom0001/gymcontrol-vitrina/raw/main/img/01-panel.jpg" width="130"> <img src="https://github.com/ttom0001/gymcontrol-vitrina/raw/main/img/06-caja.jpg" width="130"></a><br>
@@ -47,6 +53,8 @@ Hoy armo sistemas completos para negocios de Tierra del Fuego, de la idea a prod
       <code>Next.js</code> <code>React</code> <code>Supabase</code> <code>Tailwind</code><br><br>
       <a href="https://gymcontrol-iota.vercel.app"><b>🔗 Desplegado en Vercel</b></a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🍽️ <a href="https://github.com/ttom0001/augusto-ushuaia-vitrina">Augusto Ushuaia</a></h3>
       <a href="https://github.com/ttom0001/augusto-ushuaia-vitrina"><img src="https://github.com/ttom0001/augusto-ushuaia-vitrina/raw/main/img/home-desktop.png"></a><br>
@@ -54,13 +62,13 @@ Hoy armo sistemas completos para negocios de Tierra del Fuego, de la idea a prod
       <code>Next.js</code> <code>PostgreSQL</code> <code>Realtime</code> <code>n8n</code><br><br>
       <a href="https://augusto-ushuaia.vercel.app"><b>🔗 Web en vivo</b></a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🐾 <a href="https://github.com/ttom0001/patitas-vitrina">Patitas</a></h3>
       Paseo de perros con web, panel del paseador y app para Android e iOS sobre una sola base de datos.<br><br>
       <code>React Native</code> <code>Expo</code> <code>Next.js</code> <code>Supabase</code>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>👕 <a href="https://github.com/ttom0001/bennz-maqueta">BENNZ</a></h3>
       Prototipo de tienda online para una marca de streetwear: scroll con video, cubo 3D y carrito con envíos.<br><br>
