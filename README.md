@@ -15,6 +15,7 @@ Empecé del otro lado del mostrador. Trabajando en atención al público, primer
 
 Hoy armo sistemas completos para negocios de Tierra del Fuego, de la idea a producción: hablo con el dueño, diseño la base de datos, programo, pruebo y lo dejo andando. Me gusta que el software resuelva algo concreto y que la gente lo pueda usar sin manual.
 
+- 🔥 Tengo mi propio emprendimiento, **[THGRABACIONES](https://www.instagram.com/thgrabaciones/)**: productos personalizados con grabado láser. Diseño los grabados, opero la máquina, vendo y envío a todo el país.
 - 🔐 Estudio la **Tecnicatura en Ciberseguridad** (Teclab).
 - 📊 Hice un año de **Ciencia de Datos e IA** y los cursos de **Programación** y **Analista de Datos** de Digital House.
 - 🤖 Uso **IA generativa** (Claude, ChatGPT) todos los días como herramienta de trabajo: me hace más rápido, pero las decisiones y las pruebas son mías.
@@ -91,6 +92,7 @@ Hoy armo sistemas completos para negocios de Tierra del Fuego, de la idea a prod
 - **La seguridad va en la base de datos**, no solo en la pantalla: cada usuario ve únicamente lo que le corresponde.
 - **Si no está probado, no está hecho.** Pruebas automáticas y un documento honesto de qué funciona y qué falta.
 - **Pienso el producto entero**: también diseño la marca, la landing y el material para mostrarlo.
+- **Sé lo que es tener clientes propios**: con mi emprendimiento de grabado láser aprendí a presupuestar, cumplir plazos y atender a quien paga.
 
 ---
 
