@@ -1,6 +1,6 @@
 <h1 align="center">Hola, soy Tomás Frem 👋</h1>
 <p align="center"><b>Desarrollador · Tolhuin, Tierra del Fuego 🇦🇷</b><br>
-Construyo software para comercios reales: sistemas de gestión, apps web y móviles, y asistentes con IA.</p>
+Aprendo construyendo: prototipos de sistemas de gestión, apps web y móviles, asistentes con IA y software para salud.</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tomas-frem"><img src="https://img.shields.io/badge/LinkedIn-tomas--frem-0A66C2?logo=linkedin&logoColor=white"></a>
@@ -13,7 +13,7 @@ Construyo software para comercios reales: sistemas de gestión, apps web y móvi
 
 Empecé del otro lado del mostrador. Trabajando en atención al público, primero en una central de taxis y después en un comercio, me di cuenta de que muchas tareas que hacía a mano se podían automatizar: vencimientos, pedidos a proveedores, precios, stock. Así que empecé a programarlas, con Python, SQL y planillas, y nunca más paré.
 
-Hoy armo sistemas completos para negocios de Tierra del Fuego, de la idea a producción: hablo con el dueño, diseño la base de datos, programo, pruebo y lo dejo andando. Me gusta que el software resuelva algo concreto y que la gente lo pueda usar sin manual.
+Hoy armo prototipos completos inspirados en negocios de Tierra del Fuego: diseño la base de datos, programo, pruebo y lo pongo a funcionar. Son proyectos propios de práctica: **nunca los ofrecí ni los vendí**. Los hago porque me gusta aprender, ser creativo y siempre sumar algo más: más eficiente, más moderno. Que algo falle no me frena; les pasa hasta a las grandes empresas, y de cada prueba saco algo.
 
 - 🔥 Tengo mi propio emprendimiento, **[THGRABACIONES](https://www.instagram.com/thgrabaciones/)**: productos personalizados con grabado láser. Diseño los grabados, opero la máquina, vendo y envío a todo el país.
 - 🔐 Estudio la **Tecnicatura en Ciberseguridad** (Teclab).
@@ -58,7 +58,7 @@ Hoy armo sistemas completos para negocios de Tierra del Fuego, de la idea a prod
     <td width="50%" valign="top">
       <h3>🍽️ <a href="https://github.com/ttom0001/augusto-ushuaia-vitrina">Augusto Ushuaia</a></h3>
       <a href="https://github.com/ttom0001/augusto-ushuaia-vitrina"><img src="https://github.com/ttom0001/augusto-ushuaia-vitrina/raw/main/img/home-desktop.png"></a><br>
-      Restaurante en 8 idiomas: carta digital, pedidos por QR y un motor de reservas que nunca vende dos veces la misma mesa.<br><br>
+      Prototipo para un restaurante, en 8 idiomas: carta digital, pedidos por QR y un motor de reservas que nunca vende dos veces la misma mesa.<br><br>
       <code>Next.js</code> <code>PostgreSQL</code> <code>Realtime</code> <code>n8n</code><br><br>
       <a href="https://augusto-ushuaia.vercel.app"><b>🔗 Web en vivo</b></a>
     </td>
@@ -78,7 +78,7 @@ Hoy armo sistemas completos para negocios de Tierra del Fuego, de la idea a prod
   </tr>
 </table>
 
-> Los proyectos de clientes tienen el código privado. En cada vitrina cuento la idea, cómo está armado y las decisiones que tomé; el código lo muestro con gusto en una entrevista.
+> Todos son proyectos personales de práctica, con datos de prueba; ninguno lo usa un negocio real. Los dos de salud tienen el código abierto. El de los demás lo tengo en repositorios privados y lo muestro con gusto en una entrevista.
 
 ## 🛠️ Con qué trabajo
 
@@ -96,11 +96,11 @@ Hoy armo sistemas completos para negocios de Tierra del Fuego, de la idea a prod
 
 ## 🧩 Cómo trabajo
 
-- **Primero entiendo el problema.** Antes de escribir código hablo con quien lo va a usar.
+- **Primero entiendo el problema.** Antes de escribir código pienso quién lo usaría y qué necesita de verdad.
 - **La seguridad va en la base de datos**, no solo en la pantalla: cada usuario ve únicamente lo que le corresponde.
 - **Si no está probado, no está hecho.** Pruebas automáticas y un documento honesto de qué funciona y qué falta.
 - **Pienso el producto entero**: también diseño la marca, la landing y el material para mostrarlo.
-- **Sé lo que es tener clientes propios**: con mi emprendimiento de grabado láser aprendí a presupuestar, cumplir plazos y atender a quien paga.
+- **Sé lo que es tener clientes propios**: no con el software, sino con mi emprendimiento de grabado láser, donde aprendí a presupuestar, cumplir plazos y atender a quien paga.
 
 ---
 
